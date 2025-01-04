@@ -24,5 +24,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![HTML](	https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor==0D1117)&nbsp;
+![TypeScript Badge](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)$nbsp;
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ffbf&height=120&section=footer"/>
