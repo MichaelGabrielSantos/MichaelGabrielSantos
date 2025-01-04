@@ -28,8 +28,8 @@
 ![Python Badge](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0D1117)&nbsp;
 ![Java Badge](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=007396&labelColor=0D1117)&nbsp;
 ![React Badge](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117)&nbsp;
-![Power Platform Badge](https://img.shields.io/badge/-Power%20Platform-0D1117?style=for-the-badge&logo=microsoft-power-platform&logoColor=742774&labelColor=0D1117)&nbsp;
-![Adobe AEM Badge](https://img.shields.io/badge/-Adobe%20AEM-0D1117?style=for-the-badge&logo=adobe&logoColor=FF0000&labelColor=0D1117)&nbsp;
+![Microsoft Badge](https://img.shields.io/badge/-Microsoft-0D1117?style=for-the-badge&logo=microsoft&logoColor=0078D4&labelColor=0D1117)&nbsp;
+![Adobe Badge](https://img.shields.io/badge/-Adobe-0D1117?style=for-the-badge&logo=adobe&logoColor=FF0000&labelColor=0D1117)&nbsp;
 
 
 
