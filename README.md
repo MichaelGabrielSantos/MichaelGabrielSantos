@@ -1,6 +1,6 @@
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 Michael Gabriel Santos
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Meu nome é Michael Gabriel Santos, tenho 22 anos e trabalho na Accenture como desenvolvedor(a). Tenho experiência em tecnologias como AEM, React, TypeScript, Java e Power Platform. Sou formado(a) em Gestão e Tecnologia e conclui um MBA em Gestão de Negócios. Apaixonado(a) por inovação e soluções digitais, busco continuamente aprimorar minhas habilidades e contribuir com projetos de impacto. Fique a vontade para me acompanhar nas redes e trocar uma ideia "[maicoding](https://www.instagram.com/maicoding/)".
 
